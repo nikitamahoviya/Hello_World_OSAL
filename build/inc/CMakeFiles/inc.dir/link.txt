@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinc.a  CMakeFiles/inc.dir/myprinter.c.o
+/usr/bin/ranlib libinc.a

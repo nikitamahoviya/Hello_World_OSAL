@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/AppServer.dir/src/AppOSAL.c.o CMakeFiles/AppServer.dir/src/taskingtest.c.o CMakeFiles/AppServer.dir/src/NetSupport.c.o  -o AppServer  inc/libinc.a osal/libosal.a osal/libosal_bsp.a -lpthread -ldl -lrt 
